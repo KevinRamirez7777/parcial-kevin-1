@@ -1,7 +1,7 @@
 # parcial-kevin-1
 # POSTMAIL API
 
-API desarrollada para el parcial II de Programación Orientada a Objetos.
+API PARCIAL API POSTMAIL REST con Node.js + Express + MongoDB
 
 ## Requisitos
 
